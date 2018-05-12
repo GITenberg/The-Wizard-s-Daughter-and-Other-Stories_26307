@@ -1,0 +1,30 @@
+_repo: The-Wizard-s-Daughter-and-Other-Stories_26307
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26307-h/images/wizard_cover.jpg
+creator:
+  author:
+    agent_name: Graham, Margaret Collier
+    birthdate: 1850
+    deathdate: 1910
+    gutenberg_agent_id: '31903'
+    url: http://www.gutenberg.org/2009/agents/31903
+description: ''
+gutenberg_issued: '2008-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26307'
+  lccn: '05030272'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+tableOfContents: The wizard's daughter -- Marg'et Ann -- At the foot of the trail
+  -- Lib -- For value received -- The face of the poor.
+title: The Wizard's Daughter, and Other Stories
+url: http://www.gutenberg.org/ebooks/26307
